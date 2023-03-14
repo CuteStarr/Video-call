@@ -1,14 +1,10 @@
 # video-calling-app
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 ![alt text](https://github.com/knowankit/video-calling-app/blob/develop/demo.png)
 
 ## Overview
 
 This is a video calling application built for experimenting socket. You can use this app to call other people.
-
-### [Demo](https://video-calling-app-git.netlify.app)
 
 ## Requirements
 
